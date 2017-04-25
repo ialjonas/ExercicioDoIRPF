@@ -1,3 +1,4 @@
+package irpf.negocio;
 
 public class ContribuinteCompleto extends Contribuinte {
 
